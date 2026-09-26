@@ -1,3 +1,6 @@
+# PrankyBot
+Diddy Bot, but with the corny "Diddy" branding removed
+
 # How to install Diddy-Bot
 ***
 # Install the official Diddy-Bot
